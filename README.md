@@ -1,6 +1,6 @@
 # Java Programming & Data Structures
 
-A structured, hands-on learning journey through Java programming and data structures, following *Introduction to Java Programming and Data Structures: Comprehensive Version* by Y. Daniel Liang.
+A structured, hands-on learning journey through Java programming and data structures, following _Introduction to Java Programming and Data Structures: Comprehensive Version_ by Y. Daniel Liang.
 
 This repository documents my progress as I study the book, independently implement its examples, experiment with concepts, and solve selected programming exercises.
 
@@ -8,7 +8,7 @@ Rather than simply reading the material, I use this repository to practice what 
 
 > **Status:** In Progress 🚧  
 > **Primary Language:** Java  
-> **Learning Resource:** *Introduction to Java Programming and Data Structures: Comprehensive Version* — Y. Daniel Liang
+> **Learning Resource:** _Introduction to Java Programming and Data Structures: Comprehensive Version_ — Y. Daniel Liang
 
 ---
 
@@ -21,13 +21,6 @@ Rather than simply reading the material, I use this repository to practice what 
   - [3. Creating Original Examples](#3-creating-original-examples)
   - [4. Solving Selected Programming Exercises](#4-solving-selected-programming-exercises)
 - [Repository Structure](#repository-structure)
-- [Code Organization](#code-organization)
-- [Technologies and Tools](#technologies-and-tools)
-- [Learning Principles](#learning-principles)
-- [Progress](#progress)
-- [Running the Programs](#running-the-programs)
-- [Acknowledgments](#acknowledgments)
-- [Disclaimer](#disclaimer)
 
 ---
 
@@ -109,3 +102,4 @@ Programming/
     ├── Assets/
     ├── Examples/
     └── Problems/
+```
